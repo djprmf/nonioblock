@@ -1,3 +1,7 @@
+body.is-reveal-open {
+    overflow: auto!important;
+}
+
 div#sso_layer {
     display: none!important;
 }
