@@ -15,6 +15,7 @@ I'm not responsible for nuclear wars because of this extension...
 
 --------
 Show me some love:
-https://djprmf.com
 
-https://tugatech.com.pt
+- https://djprmf.com
+
+- https://tugatech.com.pt
