@@ -1,0 +1,16 @@
+{
+"update_url": "https://clients2.google.com/service/update2/crx",
+
+    "name": "Nonio Block",
+    "description": "Remove NONIO login and register modals from all the websites",
+    "version": "1.0",
+    "manifest_version": 2,
+    "content_security_policy": "script-src 'self' https://ssl.google-analytics.com; object-src 'self'",
+    "icons": {  "48": "icon48.png",
+               "128": "icon128.png" },
+    "content_scripts": [{
+    "css": ["styles.css"],
+    "js": ["content.js"],
+    "matches": ["<all_urls>"]
+                       }]
+}

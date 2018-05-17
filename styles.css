@@ -1,0 +1,23 @@
+div#sso_layer {
+    display: none!important;
+}
+
+div#nonio-basiclogin {
+    display: none!important;
+}
+
+div#imp-sso-root {
+    display: none!important;
+}
+
+.reveal-overlay {
+    display: none!important;
+}
+
+div#gigya-screen-dialog-page-overlay {
+    display: none!important;
+}
+
+.gigya-screen-dialog-main {
+    display: none!important;
+}
